@@ -6,6 +6,6 @@ export interface Notification {
     message: string;
     expires?: string;
     timeout?: number;
-    ignoreClickaway?: boolean;
+    hideOnClickaway?: boolean;
 }
 ```

@@ -1,5 +1,4 @@
 [{
     "id": "1",
-    "message": "<div>Dark mode is here 🎉</div><div>Check out the <a href=\"/settings\">settings page</a> to try it out!</div>",
-    "ignoreClickaway": true
+    "message": "<div>Dark mode is here 🎉</div><div>Check out the <a href=\"/settings\">settings page</a> to try it out!</div>"
 }]
