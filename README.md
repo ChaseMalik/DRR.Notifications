@@ -7,5 +7,6 @@ export interface Notification {
     expires?: string;
     timeout?: number;
     hideOnClickaway?: boolean;
+    dismissWithoutClick?: boolean;
 }
 ```
