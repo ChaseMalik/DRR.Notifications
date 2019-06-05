@@ -1,4 +1,7 @@
 [{
+    "id": "2",
+    "message": "<div>Crown of Sorrow is here 🎉</div><div>Check out the <a href=\"/leaderboard/worldsfirst/crownofsorrow/normal\">world's first page</a>!</div>"
+}, {
     "id": "1",
     "message": "<div>Dark mode is here 🎉</div><div>Check out the <a href=\"/settings\">settings page</a> to try it out!</div>"
 }]
