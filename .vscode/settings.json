@@ -1,0 +1,37 @@
+{
+    "json.schemas": [{
+        "fileMatch": [
+            "notifications.json"
+        ],
+        "schema": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "message": {
+                        "type": "string"
+                    },
+                    "expires": {
+                        "type": "string"
+                    },
+                    "timeout": {
+                        "type": "number"
+                    },
+                    "hideOnClickaway": {
+                        "type": "boolean"
+                    },
+                    "dismissWithoutClick": {
+                        "type": "boolean"
+                    }
+                },
+                "required": [
+                    "id",
+                    "message"
+                ]
+            }
+        }
+    }]
+}
