@@ -1,7 +1,12 @@
 [{
     "id": "2",
-    "message": "<div>Crown of Sorrow is here 🎉</div><div>Check out the <a href=\"/leaderboard/worldsfirst/crownofsorrow/normal\">world's first page</a>!</div>"
+    "message": "<div>Crown of Sorrow is here 🎉</div><div>Check out the <a href=\"/leaderboard/worldsfirst/crownofsorrow/normal\">world's first page</a>!</div>",
+    "expires": "2019-06-11T17:00:00Z",
+    "timeout": 10000,
+    "dismissWithoutClick": true
 }, {
     "id": "1",
-    "message": "<div>Dark mode is here 🎉</div><div>Check out the <a href=\"/settings\">settings page</a> to try it out!</div>"
+    "message": "<div>Try out <a href=\"/settings\">dark mode</a> 🎉</div>",
+    "timeout": 10000,
+    "dismissWithoutClick": true
 }]
