@@ -1,4 +1,8 @@
 [{
+    "id": "3",
+    "message": "<div>Garden of Salvation leaderboards will be delayed until</div><div>Bungie is able to return activity information.</div>",
+    "timeout": 10000
+}, {
     "id": "2",
     "message": "<div>Crown of Sorrow is here 🎉</div><div>Check out the <a href=\"/leaderboard/worldsfirst/crownofsorrow/normal\">world's first page</a>!</div>",
     "expires": "2019-06-11T17:00:00Z",
