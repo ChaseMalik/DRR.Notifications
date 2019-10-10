@@ -1,4 +1,10 @@
 [{
+    "id": "5",
+    "message": "Some stats on the site will be slow to update over the next couple days.",
+    "timeout": 10000,
+    "expires": "2019-10-16T00:00:00.000Z",
+    "dismissWithoutClick": true
+}, {
     "id": "4",
     "message": "Garden of Salvation leaderboards are now updating! 🎉",
     "timeout": 10000,
