@@ -19,5 +19,6 @@
     "id": "1",
     "message": "<div>Try out <a href=\"/settings\">dark mode</a> 🎉</div>",
     "timeout": 10000,
+    "expires": "2019-10-11T00:00:00.000Z",
     "dismissWithoutClick": true
 }]
