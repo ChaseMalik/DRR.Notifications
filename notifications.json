@@ -1,4 +1,9 @@
 [{
+    "id": "6",
+    "message": "<div>Look up dungeon stats!</div><div>Check out <a href=\"https://dungeon.report?utm_source=drr\">dungeon.report</a></div>",
+    "expires": "2020-07-10T00:00:00.000Z",
+    "timeout": 10000
+}, {
     "id": "5",
     "message": "Some stats on the site will be slow to update over the next couple days.",
     "timeout": 10000,
