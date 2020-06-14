@@ -1,5 +1,6 @@
 [{
-    "id": "0-alpha",
-    "message": "Coming soon",
+    "id": "1",
+    "message": "Some stats on the site will be slow to update over the next couple of days",
+    "expires": "2020-06-18T00:00:00.000Z",
     "timeout": 10000
 }]
