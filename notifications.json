@@ -1,7 +1,12 @@
 [
   {
+    "id": "3",
+    "message": "Update to the latest version of dungeon.report from the settings page. Contact us on Twitter or Reddit if you are unable to."
+  },
+  {
     "id": "2",
-    "message": "This version of dungeon.report will stop working soon! Go to the Settings page and click Unregister to force update."
+    "message": "This version of dungeon.report will stop working soon! Go to the Settings page and click Unregister to force update.",
+    "expires": "2020-08-18T00:00:00.000Z"
   },
   {
     "id": "1",
