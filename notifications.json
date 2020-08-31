@@ -1,6 +1,14 @@
-[{
+[
+  {
+    "id": "4",
+    "message": "Switch to the mobile swipe layout in settings",
+    "timeout": 10000,
+    "dismissWithoutClick": true
+  },
+  {
     "id": "1",
     "message": "Some stats on the site will be slow to update over the next couple of days",
     "expires": "2020-06-18T00:00:00.000Z",
     "timeout": 10000
-}]
+  }
+]
