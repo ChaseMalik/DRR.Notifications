@@ -9,6 +9,7 @@
     "id": "4",
     "message": "Switch to the mobile swipe layout in settings",
     "timeout": 10000,
+    "expires": "2020-11-10T00:00:00.000Z",
     "dismissWithoutClick": true
   },
   {
