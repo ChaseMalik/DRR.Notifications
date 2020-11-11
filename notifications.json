@@ -1,5 +1,11 @@
 [
   {
+    "id": "5",
+    "message": "Speed rank will only include active dungeons after Beyond Light",
+    "timeout": 10000,
+    "dismissWithoutClick": true
+  },
+  {
     "id": "4",
     "message": "Switch to the mobile swipe layout in settings",
     "timeout": 10000,
