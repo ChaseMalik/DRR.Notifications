@@ -1,8 +1,13 @@
 [
   {
+    "id": "12",
+    "message": "Bungie is hiding data from raid.report to prevent DSC leaderboards 😭😭😭"
+  },
+  {
     "id": "11",
     "message": "Speed rank will only include active raids after Beyond Light",
     "timeout": 10000,
+    "expires": "2020-11-21T00:00:00.000Z",
     "dismissWithoutClick": true
   },
   {
