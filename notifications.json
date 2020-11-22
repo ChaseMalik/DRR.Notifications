@@ -1,7 +1,15 @@
 [
   {
+    "id": "13",
+    "message": "Deep Stone Crypt leaderboards are now updating! 🎉",
+    "timeout": 10000,
+    "expires": "2020-11-24T18:00:00.000Z",
+    "dismissWithoutClick": true
+  },
+  {
     "id": "12",
-    "message": "Bungie is hiding data from raid.report to prevent DSC leaderboards 😭😭😭"
+    "message": "Bungie is hiding data from raid.report to prevent DSC leaderboards 😭😭😭",
+    "expires": "2020-11-22T00:00:00.000Z"
   },
   {
     "id": "11",
