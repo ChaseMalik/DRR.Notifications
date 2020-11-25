@@ -1,5 +1,10 @@
 [
   {
+    "id": "14",
+    "message": "Bungie are classifying checkpoint runs as full. No ETA for a fix.",
+    "timeout": 10000
+  },
+  {
     "id": "13",
     "message": "Deep Stone Crypt leaderboards are now updating! 🎉",
     "timeout": 10000,
