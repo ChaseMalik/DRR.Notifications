@@ -8,6 +8,7 @@
     "id": "5",
     "message": "Speed rank will only include active dungeons after Beyond Light",
     "timeout": 10000,
+    "expires": "2021-01-27T00:00:00.000Z",
     "dismissWithoutClick": true
   },
   {
