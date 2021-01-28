@@ -1,5 +1,12 @@
 [
   {
+    "id": "15",
+    "message": "Check out your Harbinger stats on dungeon.report!",
+    "timeout": 10000,
+    "expires": "2021-02-10T00:00:00.000Z",
+    "dismissWithoutClick": true
+  },
+  {
     "id": "14",
     "message": "Bungie are classifying checkpoint runs as full. No ETA for a fix.",
     "timeout": 10000
