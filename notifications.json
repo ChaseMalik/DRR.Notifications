@@ -16,7 +16,8 @@
   {
     "id": "14",
     "message": "Bungie are classifying checkpoint runs as full. No ETA for a fix.",
-    "timeout": 10000
+    "timeout": 10000,
+    "expires": "2022-03-05T18:00:00.000Z"
   },
   {
     "id": "13",
