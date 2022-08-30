@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
-    "message": "<div>Bungie has disabled the D1 API for the weekend. They hope to re-enable it next week. <a href=\"https://twitter.com/BungieHelp/status/1563330863471165442\" target=\"_blank\">[Twitter]</a></div>"
+    "message": "<div>Bungie has disabled the D1 API for the weekend. They hope to re-enable it next week. <a href=\"https://twitter.com/BungieHelp/status/1563330863471165442\" target=\"_blank\">[Twitter]</a></div>",
+    "expires": "2022-08-30T17:00:00.000Z"
   }
 ]
