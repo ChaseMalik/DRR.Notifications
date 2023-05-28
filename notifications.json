@@ -1,5 +1,10 @@
 [
   {
+    "id": "7",
+    "message": "Ghosts of the Deep leaderboards will be updated later this week",
+    "timeout": 10000
+  },
+  {
     "id": "6",
     "message": "Bungie are classifying checkpoint runs as full. No ETA for a fix.",
     "timeout": 10000,
