@@ -2,7 +2,8 @@
   {
     "id": "7",
     "message": "Ghosts of the Deep leaderboards will be updated later this week",
-    "timeout": 10000
+    "timeout": 10000,
+    "expires": "2023-05-30T17:00:00.000Z"
   },
   {
     "id": "6",
