@@ -1,5 +1,11 @@
 [
   {
+    "id": "18",
+    "message": "Desert Perpetual leaderboards are waiting on Bungie's verification process.",
+    "timeout": 10000,
+    "expires": "2025-07-21T21:30:00.000Z"
+  },
+  {
     "id": "17",
     "message": "Root of Nightmares leaderboards will not update until after Bungie's official announcement",
     "timeout": 10000,
